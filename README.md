@@ -3,11 +3,6 @@
 저는 대학에서 컴퓨터공학과를 전공했으며, 프론트엔드 개발자로써의 능력을 키우고 있습니다.
 <br/>
 <br/>
-<a href="https://github.com/aebonlee" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>&nbsp;
-<a href="https://instagram.com/aebonlee" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b alt=instagram style="margin-bottom: 5px;" />
 </a>&nbsp;
 
 
