@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hyunbin's Github!!&fontSize=90" />
+![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Venom.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 안녕하세요 앱 프로그래머 및 프론트엔드 개발자 김현빈입니다.<br/><br/>
 저는 대학에서 컴퓨터공학과를 전공했으며, 프론트엔드 개발자로써의 능력을 키우고 있습니다.<br/><br/>
 <br/>
