@@ -1,7 +1,4 @@
-![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Welcome%20to%20Hyunbin's%20Github&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4) <br/><br/>
-
-<br/>
-<br/>
+![venom](https://capsule-render.vercel.app/api?type=venom&height=500&text=Welcome%20to%20Hyunbin's%20Github&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4) <br/><br/>
 </a>&nbsp;
 
 
