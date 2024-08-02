@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&amp;logoColor=white"/>&nbsp
 </div>
 
-<br>
+<br><br>
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB"/>&nbsp
 </div>
 
-<br>
+<br><br>
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=Eclipse%20IDE&amp;logoColor=white" />&nbsp
 </div>
 
-<br>
+<br><br>
 
 <h3 align="center">🐬 Cowork Tools 🐬</h3>
 <div align="center">
@@ -50,7 +50,7 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&amp;logoColor=white" />&nbsp
 </div>
 
-<br>
+<br><br>
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
