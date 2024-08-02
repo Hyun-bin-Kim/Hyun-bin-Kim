@@ -9,8 +9,6 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>&nbsp
 </div>
 
-<br>
-
 <div align="center">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&amp;logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&amp;logoColor=white"/>&nbsp
@@ -25,6 +23,7 @@
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB"/>&nbsp
 </div>
+
 <br>
 
 <h3 align="center">🛠 Tools 🛠</h3>
@@ -33,12 +32,11 @@
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=Android%20Studio&amp;logoColor=white" />&nbsp
 </div>
 
-<br>
-
 <div align="center">
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=Google%20Colab&amp;logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=Eclipse%20IDE&amp;logoColor=white" />&nbsp
 </div>
+
 <br>
 
 <h3 align="center">🐬 Cowork Tools 🐬</h3>
@@ -47,9 +45,6 @@
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&amp;logoColor=white" />&nbsp
 </div>
-
-<br>
-
 <div align="center">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&amp;logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&amp;logoColor=white" />&nbsp
