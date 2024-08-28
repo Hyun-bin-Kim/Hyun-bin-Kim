@@ -70,6 +70,6 @@
 
 <h3 align="center"> 🏅 Stats 🏅</h3> 
 <div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Hyun-Bin-Kim&bg_color=180,000000,&title_color=000000&text_color=000000"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyun-Bin-Kim&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Hyun-Bin-Kim&show_icons=true&title_color=ff479c&text_color=eceff1&icon_color=80cbc4&border_color=eceff1&bg_color=263238"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyun-Bin-Kim&show_icons=true&title_color=ff479c&text_color=eceff1&icon_color=80cbc4&border_color=eceff1&bg_color=263238&layout=donut"/>
 </div> 
